@@ -161,7 +161,7 @@ Publish the website in the LocalHost.
 
     <footer class="bg-dark text-white py-4">
         <div class="container text-center">
-            <p>Designed by NANDA KISHOR S P</p>
+            <p>Designed by NARESH S</p>
         </div>
     </footer>
  
